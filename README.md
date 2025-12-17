@@ -21,6 +21,7 @@ Instructions:
 5. Once the game is over, head back to the main menu to check you rank and score
 
 The Goal:
+
 To create an Asteroids style game using an AI prompt and then adding the ability to move the ship with 
 the arrow keys, as well as a login page which registers and stores user info for later access and
 rankings/ high scores. A selection of maps and ships with different characteristics were also planned. The login page, which I added
