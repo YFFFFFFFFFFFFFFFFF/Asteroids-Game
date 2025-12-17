@@ -3,16 +3,15 @@ This is an Asteroids inspired game made in Codehs
 
 It has been made with one AI prompt, which created the main game as a base to build upon for the final submission.
 
-In order to build on what AI provided, I:
+*In order to build on what AI provided, I:*
 1. Added the ability to move the ship with the arrow keys
 2. A login page with an arraylist to store user info, high scores
 
-Some of the Key Features Include:
-
+*Some of the Key Features Include:*
 1. A collision detection system to increment/ decrement points/ lives
 2. A login page with an arraylist to store user info
 
-Instructions:
+*Instructions:*
 
 1. Enter a username and password then click register
 2. If there is an error, try another username/ password combo, as the one you have entered already exists or is not a valid input
@@ -20,7 +19,7 @@ Instructions:
 4. Play the game, shoot asteroid, ufos, and get powerups
 5. Once the game is over, head back to the main menu to check you rank and score
 
-The Goal:
+*The Goal:*
 
 To create an Asteroids style game using an AI prompt and then adding the ability to move the ship with 
 the arrow keys, as well as a login page which registers and stores user info for later access and
