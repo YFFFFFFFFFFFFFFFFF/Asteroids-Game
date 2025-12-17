@@ -26,5 +26,6 @@ the arrow keys, as well as a login page which registers and stores user info for
 rankings/ high scores. A selection of maps and ships with different characteristics were also planned. The login page, which I added
 myself, needed to fit with the retro style of the game, thus necessitating appropriate fonts and colours to make it look like part of the game rather than a crude afterthought.
 
-**Shortcomings**
+**Shortcomings:**
+
 I intended to make the buttons and text boxes hexagonal to fix in with the space theme, but I was unable to achieve that aspect of my goal as they were JButtons rather than just shapes with mouse click detection as I'd worked with last year. I also wasn't able to fix the collision detection for the powerups, as I later realized the the max (intial) value for lives was limiting the powerups. The max/ initial lives value made it so that the powerups couldn't increase it; the collision detection was actually working, but was limited by this. 
